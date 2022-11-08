@@ -1,0 +1,74 @@
+{
+    "name": "LulaTube",
+    "job": "Canal do Presidente do Brasil",
+    "github": "https://arte.estadao.com.br/public/pages/43/1o/e2/pw/o5/8p/Lula.png",
+    "playlists": {
+        "podcasts": [
+            {
+              "title": "LULA - Flow #124",
+              "url": "https://www.youtube.com/watch?v=OAu9KJFbMhU",
+              "thumb": "https://img.youtube.com/vi/OAu9KJFbMhU/hqdefault.jpg"
+            },
+            {
+              "title": "LULA - Podpah #295",
+              "url": "https://www.youtube.com/watch?v=r4JJh0lbYHU",
+              "thumb": "https://img.youtube.com/vi/r4JJh0lbYHU/hqdefault.jpg"
+            },
+            {
+              "title": "Lula e Paulo Vieira em O Brasil Pod+",
+              "url": "https://www.youtube.com/watch?v=7fU5jgrueUs",
+              "thumb": "https://img.youtube.com/vi/7fU5jgrueUs/hqdefault.jpg"
+            }
+          ],
+        "Propostas": [
+          {
+            "title": "Eleições 2022: propostas de governo de Lula",
+            "url": "https://youtube.com/watch?v=K3xb3ekX4Zk",
+            "thumb": "https://img.youtube.com/vi/K3xb3ekX4Zk/hqdefault.jpg"
+          },
+          {
+            "title": "PROPOSTAS DE LULA PRA VOCÊ",
+            "url": "https://www.youtube.com/watch?v=PTmhjU5OSi0",
+            "thumb": "https://img.youtube.com/vi/PTmhjU5OSi0/hqdefault.jpg"
+          },
+          {
+            "title": "PROPOSTAS DO LULA",
+            "url": "https://www.youtube.com/watch?v=hX92wkU1bSk",
+            "thumb": "https://img.youtube.com/vi/hX92wkU1bSk/hqdefault.jpg"
+          },
+          {
+            "title": "Propostas do Lula para todos os brasileiros",
+            "url": "https://www.youtube.com/watch?v=HHsWP5N_mtY",
+            "thumb": "https://img.youtube.com/vi/HHsWP5N_mtY/hqdefault.jpg"
+          }
+        ],
+        "Lula e o Povo": [
+          {
+            "title": "Lula caminha com o povo em Teófilo Otoni, Minas Gerais",
+            "url": "https://www.youtube.com/watch?v=fN11qIZTNJ8",
+            "thumb": "https://img.youtube.com/vi/fN11qIZTNJ8/hqdefault.jpg"
+          },
+          {
+            "title": "Sem Medo de Ser Feliz: Lula em Fortaleza",
+            "url": "https://www.youtube.com/watch?v=-55vrSceUzg",
+            "thumb": "https://img.youtube.com/vi/-55vrSceUzg/hqdefault.jpg"
+          },
+          
+          {
+            "title": "Lula em caminhada nas ruas com o povo de Recife",
+            "url": "https://www.youtube.com/watch?v=1yEHEAgvtCQ",
+            "thumb": "https://img.youtube.com/vi/1yEHEAgvtCQ/hqdefault.jpg"
+          },
+          {
+            "title": "Lula em Campina Grande na Paraíba",
+            "url": "https://www.youtube.com/watch?v=VZVRmm1GKuo",
+            "thumb": "https://img.youtube.com/vi/VZVRmm1GKuo/hqdefault.jpg"
+          },
+          {
+            "title": "Multidão comemora vitória de Lula em Natal RN",
+            "url": "https://www.youtube.com/watch?v=Iqgu_2UqbZA",
+            "thumb": "https://img.youtube.com/vi/Iqgu_2UqbZA/hqdefault.jpg"
+          }
+        ]
+      }
+}
