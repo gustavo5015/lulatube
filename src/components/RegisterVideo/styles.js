@@ -44,6 +44,7 @@ export const StyledRegisterVideo = styled.div`
     z-index: 100;
     display: flex;
     justify-content: center;
+    overflow: hidden;
     & > div {
       flex: 1;
       border-radius: 8px;
@@ -54,6 +55,7 @@ export const StyledRegisterVideo = styled.div`
       position: relative;
       padding: 16px;
       padding-top: 40px;
+      height: 300px;
     }
   }
   input {
